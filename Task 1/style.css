@@ -266,4 +266,5 @@ footer div {
 
 footer div p {
   font-size: 1.6rem;
+  cursor: pointer;
 }
